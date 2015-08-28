@@ -4,6 +4,7 @@ public class testeGitHub {
 	private String nome;
 	private String CPF;
 	private String dataNascimento;
+	public String nameCompleto;
 	private String getNome() {
 		return nome;
 	}
